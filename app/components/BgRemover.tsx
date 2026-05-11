@@ -52,7 +52,7 @@ export default function BgRemover() {
       
         <div className="text-center mb-10">
             <h1 className="text-4xl font-bold text-white mb-3">
-            Aremu Background Remover.
+            Image Background Remover.
             </h1>
 
             <p className="text-gray-400">
